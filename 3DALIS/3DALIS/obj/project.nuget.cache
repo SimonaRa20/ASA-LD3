@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQXhFn00uL3aQ/VmDNgh/nPzirfgWXw52/31rSe8OWCeN3hsFosC1GoVwH3qFlJg3meu4CUebApTCmf0G8G2sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simut\\Desktop\\LD3\\3DALIS\\3DALIS\\3DALIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simut\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
