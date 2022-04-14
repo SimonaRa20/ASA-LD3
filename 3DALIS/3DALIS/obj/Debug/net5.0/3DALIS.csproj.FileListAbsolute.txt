@@ -1,0 +1,16 @@
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\bin\Debug\net5.0\3DALIS.exe
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\bin\Debug\net5.0\3DALIS.deps.json
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\bin\Debug\net5.0\3DALIS.runtimeconfig.json
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\bin\Debug\net5.0\3DALIS.runtimeconfig.dev.json
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\bin\Debug\net5.0\3DALIS.dll
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\bin\Debug\net5.0\3DALIS.pdb
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\3DALIS.csproj.AssemblyReference.cache
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\3DALIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\3DALIS.AssemblyInfoInputs.cache
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\3DALIS.AssemblyInfo.cs
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\3DALIS.csproj.CoreCompileInputs.cache
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\3DALIS.dll
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\refint\3DALIS.dll
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\3DALIS.pdb
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\3DALIS.genruntimeconfig.cache
+C:\Users\simut\Desktop\LD3\3DALIS\3DALIS\obj\Debug\net5.0\ref\3DALIS.dll
