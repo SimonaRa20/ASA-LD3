@@ -6,34 +6,32 @@ namespace _1DALIS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int m = F(1, 2);
+
+            Console.WriteLine(m);
         }
 
-        //public static int F(int n, int m)
-        //{
-        //    if(x == 0)
-        //    {
-        //        return y.Length;
-        //    }
-        //    if(y.Length == 0 && x.Length > 0)
-        //    {
-        //        return x.Length;
-        //    }
-        //    else
-        //    {
-        //        for(int n = 0; n < x.Length; n++)
-        //        {
-        //            for(int m = 0; m < y.Length; m++)
-        //            {
-        //                int value1 = 1 + F(x[m-1],n)
-        //            }
-        //        }
-        //    }
-        //}
-
-        public static int D(int x, int y)
+        public static int F(int n, int m)
         {
-            if (x == y)
+            if (n == 0)
+            {
+                return m;
+            }
+            if (m == 0 && n > 0)
+            {
+                return n;
+            }
+            else
+            {
+                return Math.Min(Math.Min(1 + F(m - 1, n), 1 + F(m, n - 1)), D(m, n) + F(m - 1, n - 1));
+            }
+        }
+
+        public static int D(int i, int j)
+        {
+            int[] x = { 1, 5, 6, 7, 8, 9 };
+            int[] y = { 5, 2, 6, 1, 8, 0 };
+            if (x[i] == y[j])
             {
                 return 1;
             }
